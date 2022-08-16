@@ -1,12 +1,13 @@
-
+<h1 align="center">
+Awesome Master CSS
+</h1>
+  <br />
 <div align="center">
   <br />
   <img width="100" src="./assets/logo.svg" alt="Master CSS logo">
   <br />
-  <br />
 </div>
 
-<h2 align="center">awesome-master-css</h2>
 <br />
 <p align="center">
   <a href="https://css.master.co">Master CSS</a> is a Virtual CSS language with enhanced syntax.
@@ -32,26 +33,26 @@
 
 ## Official Resources
 
-* [Website](https://css.master.co/) - Official Master CSS website.
-* [Repository](https://github.com/master-co/css) - Official Master CSS repository.
-* [Documentation](https://docs.master.co/css/setup) - Official Master CSS documentation.
-* [Discussions](https://discord.gg/sZNKpAAAw6) - Official place to discussion.
+- [Website](https://css.master.co/) - Official Master CSS website.
+- [Repository](https://github.com/master-co/css) - Official Master CSS repository.
+- [Documentation](https://docs.master.co/css/setup) - Official Master CSS documentation.
+- [Discussions](https://discord.gg/sZNKpAAAw6) - Official place to discussion.
 
 
 ## IDE Extensions
 
-* [Master CSS Language Service](https://marketplace.visualstudio.com/items?itemName=masterco.master-css-language-service) - Provides code-completion and syntax highlighting for Visual Studio Code.
+- [Master CSS Language Service](https://marketplace.visualstudio.com/items?itemName=masterco.master-css-language-service) - Provides code-completion and syntax highlighting for Visual Studio Code.
 
 ## Tools
 
-* [Master Styles CSS Converter](https://github.com/serkodev/master-styles-css-converter) - 
+- [Master Styles CSS Converter](https://github.com/serkodev/master-styles-css-converter) - 
 Online convert CSS to Master Styles.
 
 ## Plugins 
 
-* [Master Style Element React Util](https://github.com/master-co/style-element.react) - Quickly create styled React elements with conditional class names.
-* [@master/normal.css](https://github.com/master-co/normal.css) - Normalize browser's styles.
-* [@master/keyframes.css](https://github.com/master-co/keyframes.css) - Simple and useful CSS keyframes.
+- [Master Style Element React Util](https://github.com/master-co/style-element.react) - Quickly create styled React elements with conditional class names.
+- [@master/normal.css](https://github.com/master-co/normal.css) - Normalize browser's styles.
+- [@master/keyframes.css](https://github.com/master-co/keyframes.css) - Simple and useful CSS keyframes.
 
 <p align="center">
   <br />
