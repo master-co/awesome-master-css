@@ -1,7 +1,9 @@
+<!--lint disable awesome-heading awesome-github double-link no-dead-urls-->
+
 # <p align="center">Awesome Master CSS</p>
 
 <br />
-<div align="center">
+<div align="right">
   <br />
   <img width="100" src="./assets/logo.svg" alt="Master CSS logo">
   <br />
