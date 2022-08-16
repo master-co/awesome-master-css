@@ -38,8 +38,7 @@
 - [Master CSS Language Service](https://marketplace.visualstudio.com/items?itemName=masterco.master-css-language-service) - Provides code-completion and syntax highlighting for Visual Studio Code.
 
 ## Tools
-- [Master Styles CSS Converter](https://github.com/serkodev/master-styles-css-converter) - 
-Online convert CSS to Master Styles.
+- [Master Styles CSS Converter](https://github.com/serkodev/master-styles-css-converter) - Online convert CSS to Master Styles.
 
 ## Plugins 
 - [Master Style Element React Util](https://github.com/master-co/style-element.react) - Quickly create styled React elements with conditional class names.
