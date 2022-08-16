@@ -3,7 +3,7 @@
 # <p align="center">Awesome Master CSS</p>
 
 <br />
-<div align="right">
+<div align="center">
   <br />
   <img width="100" src="./assets/logo.svg" alt="Master CSS logo">
   <br />
