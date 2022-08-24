@@ -43,7 +43,7 @@
 - [Master Styles CSS Converter](https://github.com/serkodev/master-styles-css-converter) - Online convert CSS to Master Styles.
 
 ## Plugins 
-- [Master Style Element React Util](https://github.com/master-co/style-element.react) - Quickly create styled React elements with conditional class names.
+- [@master/style-element.react](https://github.com/master-co/style-element.react) - Quickly create styled React elements with conditional class names.
 - [@master/normal.css](https://github.com/master-co/normal.css) - Normalize browser's styles.
 - [@master/keyframes.css](https://github.com/master-co/keyframes.css) - Simple and useful CSS keyframes.
 
