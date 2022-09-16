@@ -41,6 +41,7 @@
 - [Master CSS Language Service](https://marketplace.visualstudio.com/items?itemName=masterco.master-css-language-service) - Provides code-completion and syntax highlighting for Visual Studio Code.
 
 ## Tools
+- [@master/cli](https://github.com/master-co/cli) - A collection of commands for the Master ecosystem.
 - [Master Styles CSS Converter](https://github.com/serkodev/master-styles-css-converter) - Online convert CSS to Master Styles.
 
 ## Plugins 
