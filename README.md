@@ -11,8 +11,7 @@
 
 <br />
 <p align="center">
-  <a href="https://css.master.co">Master CSS</a> is a virtual CSS language with enhanced syntax, efficiently build your UI and design system with HTML only.
-
+  <a href="https://css.master.co">Master CSS</a> is a virtual CSS language with enhanced syntax.
 
   <br />
   <br />
