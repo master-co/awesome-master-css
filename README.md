@@ -1,9 +1,9 @@
 
-# Awesome Master CSS [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://raw.githubusercontent.com/master-co/package/document/images/logo-and-text.svg" width="180" align="right" alt="Master CSS">](https://css.master.co/)
+# Awesome Master CSS [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://css.master.co"><img src="https://raw.githubusercontent.com/master-co/package/document/images/logo-and-text.svg" width="180" align="right" alt="Master CSS"></a>
 
 > Automatically generate corresponding CSS rules based on class names, with enhanced CSS syntax, you can build UIs with less code and directly use performant JIT in production (All features included in ~14KB).
 
-[Master CSS](https://css.master.co) is a virtual CSS language with enhanced syntax, efficiently build your UI and design system with HTML only.
+Master CSS is a virtual CSS language with enhanced syntax, efficiently build your UI and design system with HTML only.
 
 
 ## Contents 
@@ -16,7 +16,7 @@
 - [Articles](#articles)
 
 ## Useful Links
-- [Website](https://css.master.co/) - Master CSS official website.
+- [Website](https://css.master.co) - Master CSS official website.
 - [Repository](https://github.com/master-co/css) - Master CSS repository.
 - [Documentation](https://docs.master.co/css/setup) - Master CSS documentation.
 
@@ -26,7 +26,7 @@
 ## Tools
 - [@master/cli](https://github.com/master-co/cli) - A collection of commands for the Master ecosystem.
 - [Master Styles CSS Converter](https://github.com/serkodev/master-styles-css-converter) - Online convert CSS to Master styles.
-- [Master Sandbox](https://sandbox.master.co/) - Master sandbox online editor.
+- [Master Sandbox](https://sandbox.master.co) - Master sandbox online editor.
 
 ## Plugins 
 - [@master/normal.css](https://github.com/master-co/normal.css) - Normalize browser's styles.
@@ -37,7 +37,7 @@
 ## Community
 - [Discussions](https://github.com/master-co/css/discussions) - Official place to discussion.
 - [Discord channel](https://discord.gg/sZNKpAAAw6) - Channel to chat with Master community.
-- [Official Tiwitter](https://discord.gg/sZNKpAAAw6) - Newly developed notifications about Master.
+- [Official Tiwitter](https://twitter.com/mastercorg) - Newly developed notifications about Master.
 
 ## Tutorials
 - [Setup guide](https://docs.master.co/css/setup) - For a fixed cost of ~14KB, all features are included without complex build environments like webpack, gulp and postcss.
@@ -50,7 +50,7 @@
 - [Getting started with a whole new CSS language —— Master CSS](https://dev.to/aron/getting-started-with-a-whole-new-css-language-master-css-12l0)
 - [Rapidly create reusable React components in one line](https://dev.to/aron/rapidly-create-reusable-react-components-59fd)
 - [Stilify vs Master UI/Styles : next-generation Tailwind-like CSS libraries](https://blog.openreplay.com/stilify-vs-master-ui-styles-next-generation-tailwind-like-css-libraries)
-- [Stylify vs. Master Styles: Comparing Tailwind-like CSS utility libraries](https://blog.logrocket.com/stylify-vs-master-styles-comparing-css-utility-libraries/)
+- [Stylify vs. Master Styles: Comparing Tailwind-like CSS utility libraries](https://blog.logrocket.com/stylify-vs-master-styles-comparing-css-utility-libraries)
 
 <p align="center">
   <br/>
