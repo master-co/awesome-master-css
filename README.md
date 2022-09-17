@@ -49,8 +49,6 @@ Master CSS is a virtual CSS language with enhanced syntax, efficiently build you
 - [Why Master CSS](https://docs.master.co/css/why-master-css) - Offical concepts and principles about Master CSS.
 - [Getting started with a whole new CSS language —— Master CSS](https://dev.to/aron/getting-started-with-a-whole-new-css-language-master-css-12l0)
 - [Rapidly create reusable React components in one line](https://dev.to/aron/rapidly-create-reusable-react-components-59fd)
-- [Stilify vs Master UI/Styles : next-generation Tailwind-like CSS libraries](https://blog.openreplay.com/stilify-vs-master-ui-styles-next-generation-tailwind-like-css-libraries)
-- [Stylify vs. Master Styles: Comparing Tailwind-like CSS utility libraries](https://blog.logrocket.com/stylify-vs-master-styles-comparing-css-utility-libraries)
 
 <p align="center">
   <br/>
