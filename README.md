@@ -37,11 +37,13 @@ Master CSS is a virtual CSS language with enhanced syntax, efficiently build you
 ## Community
 - [Discussions](https://github.com/master-co/css/discussions) - Official place to discussion.
 - [Discord channel](https://discord.gg/sZNKpAAAw6) - Channel to chat with Master community.
-- [Official Tiwitter](https://twitter.com/mastercorg) - Newly developed notifications about Master.
+- [Official Twitter](https://twitter.com/mastercorg) - Newly developed notifications about Master.
 
 ## Tutorials
 - [Setup guide](https://docs.master.co/css/setup)
 - [Syntax tutorial](https://docs.master.co/css/syntax-tutorial) - Quick syntax guide for an enhanced and structured CSS syntax for class names.
+
+## Online Examples
 - [Glassmorphism example](https://codepen.io/aron-tw/pen/LYOGzdY) - HTML only glassmorphism components by Master CSS.
 - [Interactive switch toggle example](https://codepen.io/aron-tw/pen/zYpyQyV) - A interactive switch toggle by Master CSS.
 
