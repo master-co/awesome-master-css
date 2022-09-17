@@ -1,41 +1,23 @@
-<!--lint disable awesome-heading awesome-github double-link no-dead-urls-->
 
-# <p align="center">Awesome Master CSS</p>
+# Awesome Master CSS [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://raw.githubusercontent.com/master-co/package/document/images/logo-and-text.svg" width="180" align="right" alt="Master CSS">](https://css.master.co/)
 
-<br />
-<div align="center">
-  <br />
-  <img width="100" src="./assets/logo.svg" alt="Master CSS logo">
-  <br />
-</div>
+> Automatically generate corresponding CSS rules based on class names, with enhanced CSS syntax, you can build UIs with less code and directly use performant JIT in production (All features included in ~14KB).
 
-<br />
-<p align="center">
-  <a href="https://css.master.co">Master CSS</a> is a virtual CSS language with enhanced syntax.
+[Master CSS](https://css.master.co) is a virtual CSS language with enhanced syntax, efficiently build your UI and design system with HTML only.
 
-  <br />
-  <br />
-  <a href="https://github.com/sindresorhus/awesome">
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome badge">
-  </a>
-  <a href="https://github.com/sindresorhus/awesome-lint">
-    <img src="https://github.com/aniftyco/awesome-tailwindcss/workflows/Lint/badge.svg" alt="Lint status badge">
-  </a>
-  <br />
-  <br />
-</p>
 
 ## Contents 
-- [Official Resources](#official-resources)
+- [Useful Links](#useful-links)
 - [IDE Extensions](#ide-extensions)
 - [Tools](#tools)
 - [Plugins](#plugins)
+- [Tutorials](#tutorials)
+- [Community](#community)
 
-## Official Resources
-- [Website](https://css.master.co/) - Official Master CSS website.
-- [Repository](https://github.com/master-co/css) - Official Master CSS repository.
-- [Documentation](https://docs.master.co/css/setup) - Official Master CSS documentation.
-- [Discussions](https://discord.gg/sZNKpAAAw6) - Official place to discussion.
+## Useful Links
+- [Website](https://css.master.co/) - Master CSS official website.
+- [Repository](https://github.com/master-co/css) - Master CSS repository.
+- [Documentation](https://docs.master.co/css/setup) - Master CSS documentation.
 
 ## IDE Extensions
 - [Master CSS Language Service](https://marketplace.visualstudio.com/items?itemName=masterco.master-css-language-service) - Provides code-completion and syntax highlighting for Visual Studio Code.
@@ -43,11 +25,21 @@
 ## Tools
 - [@master/cli](https://github.com/master-co/cli) - A collection of commands for the Master ecosystem.
 - [Master Styles CSS Converter](https://github.com/serkodev/master-styles-css-converter) - Online convert CSS to Master Styles.
+- [Master Sandbox](https://sandbox.master.co/) - Master sandbox online editor.
 
 ## Plugins 
-- [@master/style-element.react](https://github.com/master-co/style-element.react) - Quickly create styled React elements with conditional class names.
 - [@master/normal.css](https://github.com/master-co/normal.css) - Normalize browser's styles.
 - [@master/keyframes.css](https://github.com/master-co/keyframes.css) - Simple and useful CSS keyframes.
+- [@master/style-element.react](https://github.com/master-co/style-element.react) - Quickly create styled React elements with conditional class names.
+
+## Tutorials
+- [Setup guide](https://docs.master.co/css/setup) - For a fixed cost of ~14KB, all features are included without complex build environments like webpack, gulp and postcss.
+- [Syntax tutorial](https://docs.master.co/css/syntax-tutorial) - Quick syntax guide for an enhanced and structured CSS syntax for class names.
+
+## Community
+- [Discussions](https://github.com/master-co/css/discussions) - Official place to discussion.
+- [Discord channel](https://discord.gg/sZNKpAAAw6) - Channel to chat with Master community.
+- [Official Tiwitter](https://discord.gg/sZNKpAAAw6) - Newly developed notifications about Master.
 
 <p align="center">
   <br />
