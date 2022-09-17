@@ -18,7 +18,7 @@ Master CSS is a virtual CSS language with enhanced syntax, efficiently build you
 ## Useful Links
 - [Website](https://css.master.co) - Master CSS official website.
 - [Repository](https://github.com/master-co/css) - Master CSS repository.
-- [Documentation](https://docs.master.co/css/setup) - Master CSS documentation.
+- [Documentation](https://docs.master.co/css) - Master CSS documentation.
 
 ## IDE Extensions
 - [Master CSS Language Service](https://marketplace.visualstudio.com/items?itemName=masterco.master-css-language-service) - Provides code-completion and syntax highlighting for Visual Studio Code.
@@ -43,7 +43,7 @@ Master CSS is a virtual CSS language with enhanced syntax, efficiently build you
 - [Setup guide](https://docs.master.co/css/setup) - For a fixed cost of ~14KB, all features are included without complex build environments like webpack, gulp and postcss.
 - [Syntax tutorial](https://docs.master.co/css/syntax-tutorial) - Quick syntax guide for an enhanced and structured CSS syntax for class names.
 - [Glassmorphism example](https://codepen.io/aron-tw/pen/LYOGzdY) - HTML only glassmorphism components by Master CSS.
-- [Interactive switch toggle example](https://codepen.io/aron-tw/pen/LYOGzdY) - A interactive switch toggle by Master CSS.
+- [Interactive switch toggle example](https://codepen.io/aron-tw/pen/zYpyQyV) - A interactive switch toggle by Master CSS.
 
 ## Articles
 - [Why Master CSS](https://docs.master.co/css/why-master-css) - Offical concepts and principles about Master CSS.
