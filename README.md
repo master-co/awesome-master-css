@@ -40,7 +40,7 @@ Master CSS is a virtual CSS language with enhanced syntax, efficiently build you
 - [Official Tiwitter](https://twitter.com/mastercorg) - Newly developed notifications about Master.
 
 ## Tutorials
-- [Setup guide](https://docs.master.co/css/setup) - For a fixed cost of ~14KB, all features are included without complex build environments like webpack, gulp and postcss.
+- [Setup guide](https://docs.master.co/css/setup)
 - [Syntax tutorial](https://docs.master.co/css/syntax-tutorial) - Quick syntax guide for an enhanced and structured CSS syntax for class names.
 - [Glassmorphism example](https://codepen.io/aron-tw/pen/LYOGzdY) - HTML only glassmorphism components by Master CSS.
 - [Interactive switch toggle example](https://codepen.io/aron-tw/pen/zYpyQyV) - A interactive switch toggle by Master CSS.
