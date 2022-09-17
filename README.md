@@ -11,8 +11,9 @@
 - [IDE Extensions](#ide-extensions)
 - [Tools](#tools)
 - [Plugins](#plugins)
-- [Tutorials](#tutorials)
 - [Community](#community)
+- [Tutorials](#tutorials)
+- [Articles](#articles)
 
 ## Useful Links
 - [Website](https://css.master.co/) - Master CSS official website.
@@ -33,16 +34,16 @@
 - [@master/style-element.react](https://github.com/master-co/style-element.react) - Quickly create styled React elements with conditional class names.
 - [@master/literal](https://github.com/master-co/literal) - Conditionally construct class names and strings with template literals.
 
+## Community
+- [Discussions](https://github.com/master-co/css/discussions) - Official place to discussion.
+- [Discord channel](https://discord.gg/sZNKpAAAw6) - Channel to chat with Master community.
+- [Official Tiwitter](https://discord.gg/sZNKpAAAw6) - Newly developed notifications about Master.
+
 ## Tutorials
 - [Setup guide](https://docs.master.co/css/setup) - For a fixed cost of ~14KB, all features are included without complex build environments like webpack, gulp and postcss.
 - [Syntax tutorial](https://docs.master.co/css/syntax-tutorial) - Quick syntax guide for an enhanced and structured CSS syntax for class names.
 - [Glassmorphism example](https://codepen.io/aron-tw/pen/LYOGzdY) - HTML only glassmorphism components by Master CSS.
 - [Interactive switch toggle example](https://codepen.io/aron-tw/pen/LYOGzdY) - A interactive switch toggle by Master CSS.
-
-## Community
-- [Discussions](https://github.com/master-co/css/discussions) - Official place to discussion.
-- [Discord channel](https://discord.gg/sZNKpAAAw6) - Channel to chat with Master community.
-- [Official Tiwitter](https://discord.gg/sZNKpAAAw6) - Newly developed notifications about Master.
 
 ## Articles
 - [Why Master CSS](https://docs.master.co/css/why-master-css) - Offical concepts and principles about Master CSS.
@@ -50,7 +51,6 @@
 - [Rapidly create reusable React components in one line](https://dev.to/aron/rapidly-create-reusable-react-components-59fd)
 - [Stilify vs Master UI/Styles : next-generation Tailwind-like CSS libraries](https://blog.openreplay.com/stilify-vs-master-ui-styles-next-generation-tailwind-like-css-libraries)
 - [Stylify vs. Master Styles: Comparing Tailwind-like CSS utility libraries](https://blog.logrocket.com/stylify-vs-master-styles-comparing-css-utility-libraries/)
-
 
 <p align="center">
   <br/>
