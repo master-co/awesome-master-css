@@ -54,5 +54,5 @@
   <br />
   <br />
   <br />
-  <sub>Contributions welcome! Read the <a href="./CONTRIBUTING.md">contribution guidelines</a> first.</sub>
+  <sub>Contributions welcome! Read the <a href="./contributing.md">contribution guidelines</a> first.</sub>
 </p>
