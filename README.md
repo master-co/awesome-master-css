@@ -1,5 +1,5 @@
 
-# Awesome Master CSS [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://docs.master.co/css"><img src="https://raw.githubusercontent.com/master-co/package/document/images/logo-and-text.svg" width="180" align="right" alt="Master CSS"></a>
+# Awesome Master CSS [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://css.master.co/#design"><img src="https://raw.githubusercontent.com/master-co/package/document/images/logo-and-text.svg" width="180" align="right" alt="Master CSS"></a>
 
 > Automatically generate corresponding CSS rules based on class names, with enhanced CSS syntax, you can build UIs with less code and directly use performant JIT in production (All features included in ~14KB).
 
@@ -18,7 +18,7 @@
 
 ## Useful Links
 - [Repository](https://github.com/master-co/css) - Master CSS repository.
-- [Documentation](https://docs.master.co/css/setup) - Master CSS documentation.
+- [Documentation](https://docs.master.co/css) - Master CSS documentation.
 
 ## IDE Extensions
 - [Master CSS Language Service](https://marketplace.visualstudio.com/items?itemName=masterco.master-css-language-service) - Provides code-completion and syntax highlighting for Visual Studio Code.
