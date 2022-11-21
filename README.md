@@ -17,7 +17,6 @@
 - [Articles](#articles)
 
 ## Useful Links
-- [Website](https://css.master.co) - Master CSS official website.
 - [Repository](https://github.com/master-co/css) - Master CSS repository.
 - [Documentation](https://docs.master.co/css) - Master CSS documentation.
 
