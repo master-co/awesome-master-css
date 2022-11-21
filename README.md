@@ -3,7 +3,7 @@
 
 > Automatically generate corresponding CSS rules based on class names, with enhanced CSS syntax, you can build UIs with less code and directly use performant JIT in production (All features included in ~14KB).
 
-Master CSS is a virtual CSS language with enhanced syntax, efficiently build your UI and design system with HTML only.
+[Master CSS](https://css.master.co) is a virtual CSS language with enhanced syntax, efficiently build your UI and design system with HTML only.
 
 
 ## Contents 
