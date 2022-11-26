@@ -28,8 +28,8 @@
 - [Master Sandbox](https://sandbox.master.co) - Master sandbox online editor.
 
 ## Plugins 
-- [@master/normal.css](https://github.com/master-co/normal.css) - Normalize browser's styles.
-- [@master/keyframes.css](https://github.com/master-co/keyframes.css) - Simple and useful CSS keyframes.
+- [@master/normal.css](https://github.com/master-co/css/tree/beta/packages/normal.css) - Normalize browser's styles.
+- [@master/keyframes.css](https://github.com/master-co/css/tree/beta/packages/keyframes.css) - Simple and useful CSS keyframes.
 - [@master/style-element.react](https://github.com/master-co/style-element.react) - Quickly create styled React elements with conditional class names.
 - [@master/literal](https://github.com/master-co/literal) - Conditionally construct class names and strings with template literals.
 
