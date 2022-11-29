@@ -11,7 +11,7 @@
 - [Tools](#tools)
 - [Plugins](#plugins)
 - [Community](#community)
-- [Tutorials](#tutorials)
+- [Learning](#learning)
 - [Online Examples](#online-examples)
 - [Articles](#articles)
 
@@ -38,9 +38,10 @@
 - [Discord channel](https://discord.gg/sZNKpAAAw6) - Channel to chat with Master community.
 - [Official Twitter](https://twitter.com/mastercorg) - Newly developed notifications about Master.
 
-## Tutorials
+## Learning
 - [Setup guide](https://docs.master.co/css/setup)
 - [Syntax tutorial](https://docs.master.co/css/syntax-tutorial) - Quick syntax guide for an enhanced and structured CSS syntax for class names.
+- [Master CSS Cheat Sheet](https://awilum.github.io/cheatsheets/mastercss) - Quickly search all syntax of Master CSS.
 
 ## Online Examples
 - [Glassmorphism example](https://codepen.io/aron-tw/pen/LYOGzdY) - HTML only glassmorphism components by Master CSS.
