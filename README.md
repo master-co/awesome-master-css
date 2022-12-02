@@ -1,5 +1,6 @@
-
-# Awesome Master CSS [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://github.com/master-co/css#readme"><img src="https://raw.githubusercontent.com/master-co/package/document/images/logo-and-text.svg" width="180" align="right" alt="Master CSS"></a>
+# Awesome Master CSS [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://github.com/master-co/css#readme"><picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/33840671/205239211-c8b13955-31bd-4e7b-af5a-593652bd746c.svg"><source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/33840671/205238744-7355106d-d454-4b3d-a40a-7b19e34ddb9d.svg"><img alt="Master CSS" src="https://user-images.githubusercontent.com/33840671/201703010-77bf2373-9899-40cc-98f5-30cf9b546941.svg" width="180" align="right"></picture>
+    </a>
+    
 
 > Automatically generate corresponding CSS rules based on class names, with enhanced CSS syntax, you can build UIs with less code and directly use performant JIT in production (All features included in ~14KB).
 
@@ -20,7 +21,7 @@
 - [Documentation](https://docs.master.co/css) - Master CSS documentation.
 
 ## IDE Extensions
-- [Master CSS Language Service](https://marketplace.visualstudio.com/items?itemName=masterco.master-css-language-service) - Provides code-completion and syntax highlighting for Visual Studio Code.
+- [Master CSS Language Service](https://github.com/master-co/css/tree/beta/packages/language-service) - Provides code-completion and syntax highlighting for Visual Studio Code.
 
 ## Tools
 - [Master Styles CSS Converter](https://github.com/serkodev/master-styles-css-converter) - Online convert CSS to Master styles.
